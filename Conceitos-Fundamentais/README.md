@@ -7,13 +7,55 @@ Uma outra definição:
    As estruturas de dados são abstrações e modelos que representam a organização lógica dos dados em um programa de computador. Elas definem a maneira como os dados são aramazenados, acessados e manipulados para garantir eficiência e otimização na execução de algaritmos.
    As estruturas de dados podem ser simples, como Arrays e listas, ou mais complexas, como árvores e grafos. A escolha adequada em uma estrutura de dados é crucial para o desempenho e a eficiência de um algoritmo ou sistema.
 
-   Além disso, as estruturas de dados podem ser classificadas em diferentes tipos, dependendo de como os dados são organizados e acessados. Alguns exemplos comuns incluem: 
+    Para exemplificar as estruturas de dados, podemos pensar da seguinte forma: imagine que você tem uma coleção de livros e precisa organizá-los na estante. Você pode utilizar diferentes critérios, de acordo com o seu objetivo.
+
+    Você pode agrupá-los por cor ou tamanho, com base em conceitos estéticos; outra alternativa é juntar os livros de mesmo autor, temática, coleção ou editora, além disso, se forem livros que você consulta com frequência, é possível deixar em locais estratégicos, em um local ao alcance das mãos e que você não precisa desorganizar toda a prateleira para retirá-los.
+    Da mesma forma, é essencial que algum tipo de estrutura seja aplicado, pois é por meio dela que será definido de que forma os dados serão administrados, com quais finalidades e como será seu desempenho.
+
+    Além disso, as estruturas de dados podem ser classificadas em diferentes tipos, dependendo de como os dados são organizados e acessados. Alguns exemplos comuns incluem: 
+
+
+## Tipos de Estrutura de Dados
+
+Neste repositório, você encontrará materiais sobre diferentes tipos de estruturas de dados.
 
 ### Estruturas de Dados Lineares:
-    Arrays
-    Listas (simplesmente encadeadas, duplamente encadeadas, circulares)
-    Pilhas
-    Filas
+
+### [Array](Tipos-de-Estruturas/Estruturas-Lineares/Array/README.md)
+
+    - Implementação
+    - Exemplos
+    - Testes
+
+### [Listas simplesmente encadeadas](Tipos-de-Estruturas/Estruturas-Lineares/Listas-simplesmente-encadeadas/README.md)
+
+    - Implementação
+    - Exemplos
+    - Testes
+
+### [Listas duplamente encadeadas](Tipos-de-Estruturas/Estruturas-Lineares/Listas-duplamente-encadeadas/README.md)
+
+    - Implementação
+    - Exemplos
+    - Testes
+
+### [Listas circulares](Tipos-de-Estruturas/Estruturas-Lineares/Listas-circulares/README.md)
+
+    - Implementação
+    - Exemplos
+    - Testes
+
+### [Pilhas](Tipos-de-Estruturas/Estruturas-Lineares/Pilhas/README.md)
+
+    - Implementação
+    - Exemplos
+    - Testes
+
+### [Filas](Tipos-de-Estruturas/Estruturas-Lineares/Filas/README.md)
+
+    - Implementação
+    - Exemplos
+    - Testes
 
 ### Estruturas de Dados Não Lineares:
 
@@ -26,21 +68,9 @@ Uma outra definição:
     Árvores B e B+
 
 
-## Aula-1
-
-- [Inserir aqui uma breve descrição do que é coberto nesta aula.]
-
-## Aula-2
-
-- [Inserir aqui uma breve descrição do que é coberto nesta aula.]
-
-[Inserir outras aulas conforme necessário.]
-
-Cada subdiretório pode conter materiais específicos para a respectiva aula, como anotações, códigos de exemplo e exercícios.
-
 ## Como Navegar
 
 - `Aula-1/`: Contém materiais relacionados à primeira aula.
 - `Aula-2/`: Contém materiais relacionados à segunda aula.
 
-Sinta-se à vontade para explorar os subdiretórios e encontrar recursos úteis para o seu estudo sobre estrutura de dados.
+
