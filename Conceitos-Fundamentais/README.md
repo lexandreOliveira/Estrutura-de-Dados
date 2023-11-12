@@ -21,7 +21,7 @@ Neste repositório, você encontrará materiais sobre diferentes tipos de estrut
 
 ### Estruturas de Dados Lineares:
 
-### [Array](Tipos-de-Estruturas/Estruturas-Lineares/Array/README.md)
+### [Array](Tipos-de-Estruturas/Estruturas-Lineares/Array/notes.md)
 
     - Implementação
     - Exemplos
