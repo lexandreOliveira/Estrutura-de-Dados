@@ -21,37 +21,37 @@ Neste repositório, você encontrará materiais sobre diferentes tipos de estrut
 
 ### Estruturas de Dados Lineares:
 
-### [Array](Tipos-de-Estruturas/Estruturas-Lineares/Array/notes.md)
+### [Array](../Tipos-de-Estruturas/Estruturas-Lineares/Array/notes.md)
 
     - Implementação
     - Exemplos
     - Testes
 
-### [Listas simplesmente encadeadas](Tipos-de-Estruturas/Estruturas-Lineares/Listas-simplesmente-encadeadas/README.md)
+### [Listas simplesmente encadeadas](../Tipos-de-Estruturas/Estruturas-Lineares/Listas-simplesmente-encadeadas/notes.md)
 
     - Implementação
     - Exemplos
     - Testes
 
-### [Listas duplamente encadeadas](Tipos-de-Estruturas/Estruturas-Lineares/Listas-duplamente-encadeadas/README.md)
+### [Listas duplamente encadeadas](../Tipos-de-Estruturas/Estruturas-Lineares/Listas-duplamente-encadeadas/notes.md)
 
     - Implementação
     - Exemplos
     - Testes
 
-### [Listas circulares](Tipos-de-Estruturas/Estruturas-Lineares/Listas-circulares/README.md)
+### [Listas circulares](../Tipos-de-Estruturas/Estruturas-Lineares/Listas-circulares/notes.md)
 
     - Implementação
     - Exemplos
     - Testes
 
-### [Pilhas](Tipos-de-Estruturas/Estruturas-Lineares/Pilhas/README.md)
+### [Pilhas](../Tipos-de-Estruturas/Estruturas-Lineares/Pilhas/notes.md)
 
     - Implementação
     - Exemplos
     - Testes
 
-### [Filas](Tipos-de-Estruturas/Estruturas-Lineares/Filas/README.md)
+### [Filas](../Tipos-de-Estruturas/Estruturas-Lineares/Filas/notes.md)
 
     - Implementação
     - Exemplos
@@ -59,8 +59,30 @@ Neste repositório, você encontrará materiais sobre diferentes tipos de estrut
 
 ### Estruturas de Dados Não Lineares:
 
-    Árvores (binárias, de busca, AVL, etc.)
-    Grafos
+### [Árvores Binárias](link)
+
+    - Implementação
+    - Exemplos
+    - Testes
+
+### [Árvores de Busca](link)
+
+    - Implementação
+    - Exemplos
+    - Testes
+
+### [Árvores AVL](link)
+
+    - Implementação
+    - Exemplos
+    - Testes
+
+### [Grafos](link)
+
+    - Implementação
+    - Exemplos
+    - Testes
+
 
 ### Estruturas de Dados de Acesso Aleatório:
 
